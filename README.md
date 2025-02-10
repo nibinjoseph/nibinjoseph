@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nibinjoseph" alt="nibinjoseph" /></a> </p>
 
-- 💬 Ask me about **Pandas,scikit-learn**
+- 💬 Ask me about **Pandas, scikit-learn**
 
 - 📫 How to reach me **nibinjosephchalil@live.com**
 
